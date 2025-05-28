@@ -1,7 +1,8 @@
+# 🏋️‍♂️ FitPersona - Kişiye Özel Spor ve BMI Asistanı
 startCommand:
   type: stdio
   configSchema:
-    # JSON Schema defining the configuration options for the MCP.
+    # JSON Schema defining the configuration options for FitPersona MCP
     type: object
     properties: {}
   commandFunction:
